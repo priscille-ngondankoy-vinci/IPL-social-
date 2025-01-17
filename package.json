@@ -1,0 +1,18 @@
+{
+  "name": "ipl-social",
+  "version": "1.0.0",
+  "description": " IPL Social",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/priscille-ngondankoy-vinci/IPL-social-.git"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "author": "Priscille Ngondankoy",
+  "license": "ISC"
+}
